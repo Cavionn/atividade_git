@@ -6,3 +6,4 @@ Neste arquivos foram usados alguns comando como:
     git log
     git commit
     git status
+git 
